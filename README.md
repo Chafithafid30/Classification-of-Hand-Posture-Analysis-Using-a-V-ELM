@@ -48,4 +48,4 @@ Setelah nilai bobot (W) dan beta (β) didapatkan dari proses pelatihan sebelumny
 4. Menghitung hasil prediksi akhir dengan persamaan Y =  round(H * )
 
 ### Final Testing
-6. 
+Setelah masing-masing jaringan ELM sejumlah K=3 telah menghasilkan hasil prediksi, hasil prediksi akhir dihitung berdasarkan nilai voting mayoritas dari seluruh hasil prediksi jaringan ELM. Perhitungan hasil voting tersebut adalah sebagai berikut:
