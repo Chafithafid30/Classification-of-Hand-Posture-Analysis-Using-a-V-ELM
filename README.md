@@ -51,8 +51,10 @@ Setelah masing-masing jaringan ELM sejumlah K=3 telah menghasilkan hasil prediks
 
 ### Final Test Table
 ![](https://github.com/Chafithafid30/Classification-of-Hand-Posture-Analysis-Using-a-V-ELM/blob/master/Tabel%20Pengujian%20Akhir.png)
+
 NB: Hasil voting diambil dari nilai Y masing-masing data yang keluar paling banyak.
 
 Dari tabel di atas, didapatkan hasil prediksi akhir adalah [ 2, 3, 5]. Kemudian dihitung akurasi dari hasil prediksi tersebut dengan perhitungan sebagai berikut.
-Final Test Accuracy Table
+
+### Final Test Accuracy Table
 ![](https://github.com/Chafithafid30/Classification-of-Hand-Posture-Analysis-Using-a-V-ELM/blob/master/Tabel%20Akurasi%20Pengujian%20Akhir.png)
